@@ -1,4 +1,6 @@
-See `MCEL_Siemens_Gamesa_essay.pdf` for the main research on wind power.
+Functional link to `MCEL_Siemens_Gamesa_essay.pdf`, the main research on wind power:</br>
+https://raw.githubusercontent.com/thomas-xza/MCEL30032_wind_power/refs/heads/main/MCEL_Siemens_Gamesa_essay.pdf
+
 
 ----
 
